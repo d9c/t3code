@@ -2909,7 +2909,7 @@ export const createBuildConfig = Effect.fn("createBuildConfig")(function* (
       ],
       desktop: {
         entry: {
-          StartupWMClass: "t3code",
+          StartupWMClass: "com.t3tools.T3Code",
         },
       },
     };
